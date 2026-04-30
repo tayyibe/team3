@@ -1,4 +1,4 @@
-# team2
+# team3
 
 Hackathon project: automated analysis of microscopy images
 for RNA Polymerase II 
